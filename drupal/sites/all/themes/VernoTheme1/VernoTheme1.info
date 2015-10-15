@@ -1,0 +1,15 @@
+name=VernoTheme1
+description= A new drupal theme
+core=7.x
+
+;CSS
+stylesheets[all][] =assets/CSS/styles.css
+
+regions[page_top]=Page Top
+regions[page_bottom]= Page Bottom
+regions[header]=Header
+regions[slideshow]=Slideshow
+regions[social]=Social
+regions[content]= Content
+regions[main_menu]= Main Menu
+regions[footer]=Footer
